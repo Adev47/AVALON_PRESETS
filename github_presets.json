@@ -1,0 +1,31 @@
+[
+  {
+    "preset_name": "Fortnite - Balanced",
+    "game_id": "ftn",
+    "description": "Good balance for Fortnite gameplay.",
+    "config_data": {
+      "Fov_Size": 300,
+      "Aim_Smooth": 70,
+      "Aim_Bone": "Head",
+      "Show_Detections": true,
+      "Use_Hue": false,
+      "Last_Model": "Fortnite.pt"
+      // ... toutes les autres clés de config
+    }
+  },
+  {
+    "preset_name": "Apex - Aggressive",
+    "game_id": "apex",
+    "description": "For aggressive Apex Legends style.",
+    "config_data": {
+      "Fov_Size": 400,
+      "Aim_Smooth": 60,
+      "Aim_Bone": "Body",
+      "Show_Detections": true,
+      "Use_Hue": true,
+      "Last_Model": "apex_8n.pt"
+      // ...
+    }
+  }
+  // ... autres presets
+]
