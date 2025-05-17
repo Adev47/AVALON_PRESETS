@@ -10,7 +10,7 @@
       "Show_Detections": true,
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
-      // ... toutes les autres clés de config
+      
     }
   },
   {
@@ -24,8 +24,7 @@
       "Show_Detections": true,
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
-      // ...
+      
     }
   }
-  // ... autres presets
 ]
