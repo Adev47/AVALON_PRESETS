@@ -10,8 +10,8 @@
       "Show_Detections": true,
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
-      
-  },
+    } 
+  }, 
   {
     "preset_name": "Fortnite - Legit [CONTROLLER]",
     "game_id": "ftn",
@@ -23,8 +23,8 @@
       "Show_Detections": true,
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
-      
-  },
+    }
+  }, 
   {
     "preset_name": "Apex - Legit ",
     "game_id": "apex",
@@ -36,8 +36,8 @@
       "Show_Detections": true,
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
-      
-  },
+    }
+  }, 
   {
     "preset_name": "CS2 - Legit [KBM]",
     "game_id": "cs2",
@@ -49,6 +49,6 @@
       "Show_Detections": true,
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
-      
+    }
   }
 ]
