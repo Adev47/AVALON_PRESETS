@@ -11,8 +11,8 @@
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
       
-    },
-    {
+  },
+  {
     "preset_name": "Fortnite - Legit [CONTROLLER]",
     "game_id": "ftn",
     "description": "Good balance for Fortnite gameplay.",
@@ -24,7 +24,6 @@
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
       
-    }
   },
   {
     "preset_name": "Apex - Legit ",
@@ -38,8 +37,8 @@
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
       
-    },
-    {
+  },
+  {
     "preset_name": "CS2 - Legit [KBM]",
     "game_id": "cs2",
     "description": "For aggressive Apex Legends style.",
@@ -51,6 +50,5 @@
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
       
-    }
   }
 ]
