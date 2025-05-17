@@ -11,7 +11,7 @@
       "Use_Hue": false,
       "Last_Model": "Fortnite.pt"
       
-    }
+    },
     {
     "preset_name": "Fortnite - Legit [CONTROLLER]",
     "game_id": "ftn",
@@ -38,7 +38,7 @@
       "Use_Hue": true,
       "Last_Model": "apex_8n.pt"
       
-    }
+    },
     {
     "preset_name": "CS2 - Legit [KBM]",
     "game_id": "cs2",
