@@ -1,6 +1,19 @@
 [
   {
-    "preset_name": "Fortnite - Balanced",
+    "preset_name": "Fortnite - Legit [KBM]",
+    "game_id": "ftn",
+    "description": "Good balance for Fortnite gameplay.",
+    "config_data": {
+      "Fov_Size": 300,
+      "Aim_Smooth": 70,
+      "Aim_Bone": "Head",
+      "Show_Detections": true,
+      "Use_Hue": false,
+      "Last_Model": "Fortnite.pt"
+      
+    }
+    {
+    "preset_name": "Fortnite - Legit [CONTROLLER]",
     "game_id": "ftn",
     "description": "Good balance for Fortnite gameplay.",
     "config_data": {
@@ -14,8 +27,21 @@
     }
   },
   {
-    "preset_name": "Apex - Aggressive",
+    "preset_name": "Apex - Legit ",
     "game_id": "apex",
+    "description": "For aggressive Apex Legends style.",
+    "config_data": {
+      "Fov_Size": 400,
+      "Aim_Smooth": 60,
+      "Aim_Bone": "Body",
+      "Show_Detections": true,
+      "Use_Hue": true,
+      "Last_Model": "apex_8n.pt"
+      
+    }
+    {
+    "preset_name": "CS2 - Legit [KBM]",
+    "game_id": "cs2",
     "description": "For aggressive Apex Legends style.",
     "config_data": {
       "Fov_Size": 400,
